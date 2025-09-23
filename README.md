@@ -1,4 +1,4 @@
-#AIFFEL_QUEST_RS
+# AIFFEL_QUEST_RS
 ---
 - AIFFEL 리서치 과정 15기 quest Repository
 - AIFFEL 과정 중 진행하는 프로젝트, 피어리뷰를 관리하는 Repo입니다.
