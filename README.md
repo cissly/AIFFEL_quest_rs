@@ -1,5 +1,4 @@
-'''
-AIFFEL_quest_cr
+```AIFFEL_quest_cr
 ├── MainQuest
 │   ├── Quest01
 │   │   ├── .ipynb
@@ -21,4 +20,4 @@ AIFFEL_quest_cr
     └── Ex07
         ├── .ipynb
         └── README.md
-'''
+```
