@@ -8,14 +8,30 @@
 ```
 AIFFEL_quest_rs
 ├──Example
-│   ├── ExampleQuest01
-│   │   ├── .ipynb
-│   │   └── README.md
+│   └── ExampleQuest01
+│       ├── .ipynb
+│       └── README.md
 │
 │
 ├── MainQuest
-│  
+│   ├── Quest01
+│   │   ├── .ipynb
+│   │   └── README.md
+│   └── Quest02
+│       ├── .ipynb
+│       └── README.md
 ├── Exploration
-│   
+│   ├── EX01
+│   │   ├── .ipynb
+│   │   └── README.md
+│   └── EX02
+│       ├── .ipynb
+│       └── README.md
 └── GoingDeeper
+    ├── GD01
+    │   ├── .ipynb
+    │   └── README.md
+    └── GD02
+        ├── .ipynb
+        └── README.md
 ```
